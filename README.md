@@ -38,20 +38,6 @@ They move around the world, fight enemies, recover soldiers, gather resources, i
 
 Each warzone contains a varied mix of playable operative appearances rather than copy-pasted clone armies.
 
-<img width="3787" height="1839" alt="00" src="https://github.com/user-attachments/assets/ecb882f6-3056-4cb0-80e0-920374196082" />
-
-<img width="3777" height="1845" alt="0- RaGEZONE" src="https://github.com/user-attachments/assets/5a8a219e-fc17-4c54-8780-1ab67d2b1b91" />
-
-<img width="3779" height="1843" alt="1- RaGEZONE" src="https://github.com/user-attachments/assets/a2108c76-2565-4f01-a3b5-c070d6b38b5d" />
-
-<img width="3790" height="1837" alt="2- RaGEZONE" src="https://github.com/user-attachments/assets/5cfd12a6-212c-404b-b783-3043377c0ad2" />
-
-<img width="3783" height="1845" alt="3- RaGEZONE" src="https://github.com/user-attachments/assets/8d520ecb-a56f-46a5-8386-a4148fd523e4" />
-
-<img width="3777" height="1809" alt="6- RaGEZONE" src="https://github.com/user-attachments/assets/fbc2566b-018f-4149-823c-5bb2585e01e6" />
-
-<img width="3789" height="1841" alt="Capture" src="https://github.com/user-attachments/assets/c381eb54-4ff5-4fab-b060-e84984dbe14e" />
-
 ---
 
 # EXPLORE SIX WARZONES
