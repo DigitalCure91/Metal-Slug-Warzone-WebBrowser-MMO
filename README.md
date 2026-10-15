@@ -1,5 +1,4 @@
-# METAL SLUG WARZONE By AkumaVenom
-## Web Browser MMORPG
+# METAL SLUG WARZONE
 
 **Build your army. Recover enemy soldiers. Grow your Mother Base. Invade rival commanders. Rule the warzone.**
 
